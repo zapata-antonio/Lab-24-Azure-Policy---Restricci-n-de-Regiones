@@ -59,7 +59,7 @@ Se muestra el error al intentar desplegar un recurso en **East US**, bloqueado p
 - [x] Policy **Allowed locations** asignada
 - [x] Solo **West Europe** permitida en parámetros
 - [x] Despliegue en **East US** bloqueado (Deny)
-- [x] Evidencias guardadas y enlazadas en el README
+
 
 ---
 
